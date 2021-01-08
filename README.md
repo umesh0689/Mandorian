@@ -90,11 +90,5 @@ __Shield__ :
 * The shield is activated by pressing space bar.
 * It remains activated for 7 seconds and becomes available after 30 sec
 
-## Bonus 
-
-__Colours__ :
-* Different colours are used for different objects.
-* Colours are implemented using colorama library
-
 ## Additional libraries used
 * Colorama
